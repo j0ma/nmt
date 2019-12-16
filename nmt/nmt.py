@@ -180,7 +180,7 @@ def add_arguments(parser):
   # Sequence lengths
   parser.add_argument("--src_max_len", type=int, default=50,
                       help="Max length of src sequences during training.")
-  parser.add_argument("--tgt_max_len", type=int, default=50,
+  parser.add_argument("--tgt_max_len", type=int, default=256,
                       help="Max length of tgt sequences during training.")
   parser.add_argument("--src_max_len_infer", type=int, default=None,
                       help="Max length of src sequences during inference.")
