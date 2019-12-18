@@ -1,0 +1,310 @@
+NEW: bahdanau_beam10_test_output.postprocessed
+=== Summary ===
+
+-- All --
+Number of sentence        =   2416
+Number of Error sentence  =   1409
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1007
+Bracketing Recall         =  34.01
+Bracketing Precision      =  32.16
+Bracketing FMeasure       =  33.06
+Complete match            =  11.82
+Average crossing          =   5.85
+No crossing               =  20.26
+2 or less crossing        =  34.26
+Tagging accuracy          =  38.18
+
+-- len<=40 --
+Number of sentence        =   2160
+Number of Error sentence  =   1153
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1007
+Bracketing Recall         =  34.01
+Bracketing Precision      =  32.16
+Bracketing FMeasure       =  33.06
+Complete match            =  11.82
+Average crossing          =   5.85
+No crossing               =  20.26
+2 or less crossing        =  34.26
+Tagging accuracy          =  38.18
+
+NEW: bahdanau_test_output.postprocessed
+=== Summary ===
+
+-- All --
+Number of sentence        =   2416
+Number of Error sentence  =   1328
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1088
+Bracketing Recall         =  34.48
+Bracketing Precision      =  35.36
+Bracketing FMeasure       =  34.92
+Complete match            =  11.03
+Average crossing          =   4.91
+No crossing               =  23.07
+2 or less crossing        =  38.79
+Tagging accuracy          =  38.86
+
+-- len<=40 --
+Number of sentence        =   2160
+Number of Error sentence  =   1082
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1078
+Bracketing Recall         =  34.97
+Bracketing Precision      =  35.56
+Bracketing FMeasure       =  35.26
+Complete match            =  11.13
+Average crossing          =   4.84
+No crossing               =  23.28
+2 or less crossing        =  39.15
+Tagging accuracy          =  39.22
+
+NEW: luong_beam10_test_output.postprocessed
+
+=== Summary ===
+
+-- All --
+Number of sentence        =   2416
+Number of Error sentence  =   2101
+Number of Skip  sentence  =      0
+Number of Valid sentence  =    315
+Bracketing Recall         =  13.94
+Bracketing Precision      =  13.26
+Bracketing FMeasure       =  13.59
+Complete match            =  10.79
+Average crossing          =  12.55
+No crossing               =  16.19
+2 or less crossing        =  22.54
+Tagging accuracy          =  22.39
+
+-- len<=40 --
+Number of sentence        =   2160
+Number of Error sentence  =   1854
+Number of Skip  sentence  =      0
+Number of Valid sentence  =    306
+Bracketing Recall         =  14.24
+Bracketing Precision      =  13.49
+Bracketing FMeasure       =  13.86
+Complete match            =  11.11
+Average crossing          =  12.15
+No crossing               =  16.67
+2 or less crossing        =  23.20
+Tagging accuracy          =  22.81
+
+NEW: luong_test_output.postprocessed
+=== Summary ===
+
+-- All --
+Number of sentence        =   2416
+Number of Error sentence  =   1713
+Number of Skip  sentence  =      0
+Number of Valid sentence  =    703
+Bracketing Recall         =  72.65
+Bracketing Precision      =  74.39
+Bracketing FMeasure       =  73.51
+Complete match            =  35.14
+Average crossing          =   1.83
+No crossing               =  61.59
+2 or less crossing        =  77.67
+Tagging accuracy          =  82.46
+
+-- len<=40 --
+Number of sentence        =   2160
+Number of Error sentence  =   1458
+Number of Skip  sentence  =      0
+Number of Valid sentence  =    702
+Bracketing Recall         =  72.82
+Bracketing Precision      =  74.60
+Bracketing FMeasure       =  73.70
+Complete match            =  35.19
+Average crossing          =   1.80
+No crossing               =  61.68
+2 or less crossing        =  77.78
+Tagging accuracy          =  82.65
+
+NEW: noattention_beam10_test_output.postprocessed
+=== Summary ===
+
+-- All --
+Number of sentence        =   2416
+Number of Error sentence  =   1075
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1341
+Bracketing Recall         =  40.25
+Bracketing Precision      =  37.42
+Bracketing FMeasure       =  38.78
+Complete match            =  11.04
+Average crossing          =   4.81
+No crossing               =  21.77
+2 or less crossing        =  39.00
+Tagging accuracy          =  43.40
+
+-- len<=40 --
+Number of sentence        =   2160
+Number of Error sentence  =    819
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1341
+Bracketing Recall         =  40.25
+Bracketing Precision      =  37.42
+Bracketing FMeasure       =  38.78
+Complete match            =  11.04
+Average crossing          =   4.81
+No crossing               =  21.77
+2 or less crossing        =  39.00
+Tagging accuracy          =  43.40
+
+NEW: noattention_test_output.postprocessed
+=== Summary ===
+
+-- All --
+Number of sentence        =   2416
+Number of Error sentence  =   1233
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1183
+Bracketing Recall         =  39.75
+Bracketing Precision      =  37.17
+Bracketing FMeasure       =  38.42
+Complete match            =  14.54
+Average crossing          =   4.76
+No crossing               =  24.94
+2 or less crossing        =  40.32
+Tagging accuracy          =  44.00
+
+-- len<=40 --
+Number of sentence        =   2160
+Number of Error sentence  =    978
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1182
+Bracketing Recall         =  39.80
+Bracketing Precision      =  37.22
+Bracketing FMeasure       =  38.47
+Complete match            =  14.55
+Average crossing          =   4.75
+No crossing               =  24.96
+2 or less crossing        =  40.36
+Tagging accuracy          =  44.05
+
+NEW: normed_bahdanau_beam10_test_output.postprocessed
+=== Summary ===
+
+-- All --
+Number of sentence        =   2416
+Number of Error sentence  =   1638
+Number of Skip  sentence  =      0
+Number of Valid sentence  =    778
+Bracketing Recall         =  23.77
+Bracketing Precision      =  22.84
+Bracketing FMeasure       =  23.30
+Complete match            =   8.35
+Average crossing          =   6.86
+No crossing               =  17.87
+2 or less crossing        =  28.92
+Tagging accuracy          =  29.85
+
+-- len<=40 --
+Number of sentence        =   2160
+Number of Error sentence  =   1383
+Number of Skip  sentence  =      0
+Number of Valid sentence  =    777
+Bracketing Recall         =  23.82
+Bracketing Precision      =  22.90
+Bracketing FMeasure       =  23.35
+Complete match            =   8.37
+Average crossing          =   6.84
+No crossing               =  17.89
+2 or less crossing        =  28.96
+Tagging accuracy          =  29.89
+
+NEW: normed_bahdanau_test_output.postprocessed
+=== Summary ===
+
+-- All --
+Number of sentence        =   2416
+Number of Error sentence  =   1261
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1155
+Bracketing Recall         =  18.81
+Bracketing Precision      =  20.18
+Bracketing FMeasure       =  19.47
+Complete match            =   4.24
+Average crossing          =   6.91
+No crossing               =  10.65
+2 or less crossing        =  23.29
+Tagging accuracy          =  23.09
+
+-- len<=40 --
+Number of sentence        =   2160
+Number of Error sentence  =   1008
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1152
+Bracketing Recall         =  18.86
+Bracketing Precision      =  20.23
+Bracketing FMeasure       =  19.52
+Complete match            =   4.25
+Average crossing          =   6.88
+No crossing               =  10.68
+2 or less crossing        =  23.35
+Tagging accuracy          =  23.12
+
+NEW: scaledluong_beam10_test_output.postprocessed
+=== Summary ===
+
+-- All --
+Number of sentence        =   2416
+Number of Error sentence  =   1159
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1257
+Bracketing Recall         =  83.25
+Bracketing Precision      =  86.75
+Bracketing FMeasure       =  84.96
+Complete match            =  34.92
+Average crossing          =   0.98
+No crossing               =  64.68
+2 or less crossing        =  87.27
+Tagging accuracy          =  95.20
+
+-- len<=40 --
+Number of sentence        =   2160
+Number of Error sentence  =    904
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1256
+Bracketing Recall         =  83.27
+Bracketing Precision      =  86.76
+Bracketing FMeasure       =  84.98
+Complete match            =  34.95
+Average crossing          =   0.97
+No crossing               =  64.73
+2 or less crossing        =  87.34
+Tagging accuracy          =  95.24
+
+NEW: scaledluong_test_output.postprocessed
+=== Summary ===
+
+-- All --
+Number of sentence        =   2416
+Number of Error sentence  =   1149
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1267
+Bracketing Recall         =  82.31
+Bracketing Precision      =  84.45
+Bracketing FMeasure       =  83.37
+Complete match            =  36.39
+Average crossing          =   1.29
+No crossing               =  63.69
+2 or less crossing        =  83.43
+Tagging accuracy          =  93.25
+
+-- len<=40 --
+Number of sentence        =   2160
+Number of Error sentence  =    895
+Number of Skip  sentence  =      0
+Number of Valid sentence  =   1265
+Bracketing Recall         =  82.48
+Bracketing Precision      =  84.61
+Bracketing FMeasure       =  83.53
+Complete match            =  36.44
+Average crossing          =   1.27
+No crossing               =  63.79
+2 or less crossing        =  83.56
+Tagging accuracy          =  93.42

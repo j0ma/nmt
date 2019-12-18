@@ -1,7 +1,12 @@
 # note: this script must be run in the EVALB folder of the starter code
 
-for file in $(ls ~/nmt/inference_outputs/);
+INFERENCE_OUTPUTS="../../post_processed_outputs"
+TEST_LINEARIZED_TREES="../../../ptb_processed_data/test.lintree"
+
+cd ../starter_code/EVALB
+
+for file in $(ls $INFERENCE_OUTPUTS);
 do
     echo "NEW: "$file
-    ./evalb -e 50000 ~/ptb_processed_data/test.lintree ~/nmt/inference_outputs/$file
+    ./evalb -e 50000 $TEST_LINEARIZED_TREES $INFERENCE_OUTPUTS/$file
 done
